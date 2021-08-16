@@ -7,4 +7,4 @@ const fib = (n) => {
   }
   return table[n]
 }
-console.log(fib(19))
+console.log(fib(1))
